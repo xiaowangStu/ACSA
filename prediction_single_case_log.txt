@@ -1,0 +1,11 @@
+usage: nnUNetv2_predict [-h] -i I -o O -d D [-p P] [-tr TR] -c C [-f F [F ...]] [-step_size STEP_SIZE]
+                        [--disable_tta] [--verbose] [--save_probabilities] [--continue_prediction] [-chk CHK]
+                        [-npp NPP] [-nps NPS] [-prev_stage_predictions PREV_STAGE_PREDICTIONS]
+                        [-num_parts NUM_PARTS] [-part_id PART_ID] [-device DEVICE] [--disable_progress_bar]
+nnUNetv2_predict: error: unrecognized arguments: /root/autodl-tmp/U-Mamba/data/nnUNet_raw/Dataset999_BraTS2024/imagesTs/BraTS-GoAT-02490_0001.nii.gz /root/autodl-tmp/U-Mamba/data/nnUNet_raw/Dataset999_BraTS2024/imagesTs/BraTS-GoAT-02490_0002.nii.gz /root/autodl-tmp/U-Mamba/data/nnUNet_raw/Dataset999_BraTS2024/imagesTs/BraTS-GoAT-02490_0003.nii.gz
+
+#######################################################################
+Please cite the following paper when using nnU-Net:
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
+#######################################################################
+
